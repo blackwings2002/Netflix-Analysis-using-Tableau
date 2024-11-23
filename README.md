@@ -1,5 +1,5 @@
 # Netflix shows Analysis Dashboard
-- [introduction](#mypage)
+- [mypage](#mypage)
 
 ## mypage
 ## Key findings 
