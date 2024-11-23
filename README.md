@@ -1,9 +1,9 @@
 # Netflix shows Analysis Dashboard
 - [Overview](#overview)
-- [Data Used](#DataUsed)
+- [Data Used](#Data_Used)
 - [Key Finding](#keyfinding)
 - [Summary](#summary)
 
-# Data Used
+# Data_Used
 # Summary
 # Overview
