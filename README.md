@@ -1,7 +1,7 @@
 # Netflix shows Analysis Dashboard
-- [mypage](#mypage)
+- [Overview](#overview)
+- [Data Used](#DataUsed)
+- [Key Finding](#keyfinding)
+- [Summary](#summary)
 
-## mypage
-## Key findings 
-## Summary
-## Usage
+#Data Used
