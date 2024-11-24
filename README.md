@@ -1,4 +1,4 @@
-# Netflix shows Analysis Dashboard
+# Netflix Shows Analysis Dashboard
 - [Overview](#overview)
 - [Data Used](#Data_Used)
 - [Key Finding](#keyfinding)
